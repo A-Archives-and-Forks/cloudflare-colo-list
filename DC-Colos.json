@@ -1545,15 +1545,6 @@
         "name": "Osaka, Japan",
         "region": "Asia Pacific"
     },
-    "KJA": {
-        "cca2": "RU",
-        "city": "Krasnoyarsk",
-        "country": "Russia",
-        "lat": 56.172901,
-        "lon": 92.493301,
-        "name": "Krasnoyarsk, Russia",
-        "region": "Asia Pacific"
-    },
     "KMG": {
         "cca2": "CN",
         "city": "Kunming",
